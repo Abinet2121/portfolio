@@ -2,9 +2,12 @@
 
 This portfolio is a small project using HTML / CSS and Bootstrap. I will be using this to show case my projects.
 
-[Live Heroku Deployment](https://portfolio-anakaren.herokuapp.com/)
+[Live Heroku Deployment](https://portfolio-abinet.herokuapp.com/)
 
-![image](https://user-images.githubusercontent.com/108348429/183536148-dad7d1ef-bec7-4416-99c3-63b8cb81a14e.png)
+![image]
+![abinet](https://user-images.githubusercontent.com/110650082/187312156-cf9c5f43-19f7-4d3a-a2c2-e4ab74385889.png)
+
+
 
 ## Technologies Used
 
